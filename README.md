@@ -50,8 +50,8 @@ ppob-app/
 ## 🔧 Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ppob-app.git
-   cd ppob-app
+   git clone https://github.com/your-username/nutech-code.git
+   cd nutech-code
    ```
 2. Install dependencies:
    ```bash
